@@ -1,5 +1,9 @@
 # Majestic Community edition support
 
+## Information
+
+Majestic project internally uses [smolrtsp](https://github.com/OpenIPC/smolrtsp) project. Contribute there to improve majestic.
+
 ## Issues
 
 Feel free to open [an
