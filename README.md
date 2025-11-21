@@ -14,3 +14,7 @@ us information to reproduce the bug
 
 RTP video stream could be sent via local unix socket to deliver data to custom clouds and
 CV applications. See [example](integration/handle_rtp.c) as reference.
+
+## Plugins
+
+Experimental system for creating plugins for Majestic. See [example](https://github.com/OpenIPC/majestic-plugins) as reference.
